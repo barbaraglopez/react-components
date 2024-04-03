@@ -25,6 +25,3 @@ Para comenzar a utilizar los componentes en tu proyecto de React, simplemente si
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar los componentes o encuentras algún problema, no dudes en abrir un problema o enviar una solicitud de extracción.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
