@@ -1,5 +1,6 @@
 import { useState } from "react";
-import logo from "./Logo.png";
+import logo from "./logo.svg";
+
 import "./styles.css";
 
 const navItems = ["home", "settings", "build", "cloud", "mail", "bookmark"];
